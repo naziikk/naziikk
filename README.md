@@ -18,6 +18,6 @@ I'm currently involved in several backend development projects, focusing on perf
 
 ## Links
 
-https://t.me/Zakrevski_05
-zacnazar20@gmail.com
-https://leetcode.com/u/Nazar_Zakrevski/
+- https://t.me/Zakrevski_05
+- zacnazar20@gmail.com
+- https://leetcode.com/u/Nazar_Zakrevski/
