@@ -1,16 +1,23 @@
-## Hi there 👋
-### I'am software-engineer from Moscow. Study in HSE university.
-<!--
-**naziikk/naziikk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! 👋 I'm Nazar
 
-Here are some ideas to get you started:
+I'm a software engineer from Moscow and currently studying at the Higher School of Economics. I am passionate about building efficient and scalable software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Expertise
+
+- **Languages**: C++, Python, C#, SQL
+- **Tools & Technologies**: Docker, HTTP, REST, Algorithms, etc.
+- **Principles**: OOP, SOLID
+
+## What I'm Working On
+
+I'm currently involved in several backend development projects, focusing on performance optimization, scalable architectures, and integrating modern technologies to enhance functionality.
+
+## Education
+
+- Higher School of Economics, Moscow
+
+## Links
+
+https://t.me/Zakrevski_05
+zacnazar20@gmail.com
+https://leetcode.com/u/Nazar_Zakrevski/
